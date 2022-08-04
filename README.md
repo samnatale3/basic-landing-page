@@ -1,7 +1,7 @@
 
 # Basic Landing Page
 
-This is a sample of a landing page for a website. It was designed following the Odin Project brief, exercise 2.
+This is a sample of a landing page for a website. It was designed following the Odin Project brief.
 
 
 ## Demo
